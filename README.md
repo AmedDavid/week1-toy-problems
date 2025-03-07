@@ -38,11 +38,11 @@ The repository follows the required structure
 ## How to Run
 1. Clone this repository
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Week1-Toy-Problems.git
+   git clone https://github.com/AmedDavid/week1-toy-problems.git
    ```
 2. Navigate to the project folder
    ```sh
-   cd Week1-Toy-Problems
+   cd week1-toy-problems
    ```
 3. Run a specific JavaScript file using Node.js
    ```sh
